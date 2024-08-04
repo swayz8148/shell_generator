@@ -1,0 +1,8 @@
+[package]
+name = "shell_config_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dialoguer = "0.9"
+dirs = "4.0"
